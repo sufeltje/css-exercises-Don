@@ -1,0 +1,17 @@
+p {
+    background-color: lightcoral;
+    font-size: 15px;
+}
+p.cooler {
+    font-size: 20px;
+}
+#one {
+    font-size: 30px;
+    color: blue;
+    font-family: serif;
+}
+#another{
+    font-size: 20px;
+    background-color: lightgreen;
+    font-family: serif;
+}
